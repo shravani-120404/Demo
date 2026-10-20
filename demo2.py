@@ -1,2 +1,2 @@
-age=2
-print(age,"year=",age*365,"days")
+age=20
+print(age,"Year=",age*365,"days")
